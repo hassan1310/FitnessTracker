@@ -1,0 +1,6 @@
+org\saurabhsood\controllers\IndexController.class
+org\saurabhsood\model\Goal.class
+org\saurabhsood\model\Activity.class
+org\saurabhsood\controllers\MinutesController.class
+org\saurabhsood\model\Exercise.class
+org\saurabhsood\controllers\GoalController.class
